@@ -15,9 +15,7 @@ This repository provides the dataset and code for the following paper:
 **Paper**: Image Generation from Brainwaves using Dual Generative Adversarial Training
 
 **Authors**: Yen-Chiao Wang, Yi-Jie Chen, and Bo-Hao Chen
-<!--
-in [IEEE TITS](https://ieeexplore.ieee.org/document/9357944).
- -->
+in [IEEE TITS](https://ieeexplore.ieee.org/document/10014299).
 
 
 ## Abstract
